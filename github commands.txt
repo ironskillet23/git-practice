@@ -1,0 +1,2 @@
+github commands to put in Terminal
+1. git init (enter)
