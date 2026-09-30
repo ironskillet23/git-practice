@@ -1,2 +1,8 @@
 github commands to put in Terminal
-1. git init (enter)
+1. git init(enter)
+2. git remote add origin https://github.com/ironskillet23/git-practice.git(enter)  Note: put unique url of respository you are adding
+3. git add .(enter)
+4. git commit -m "this is first commit"(enter)
+5. git push -u origin master(enter)
+
+note: ctrl c brings new command line up
