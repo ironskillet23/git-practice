@@ -6,3 +6,7 @@ github commands to put in Terminal
 5. git push -u origin master(enter)
 
 note: ctrl c brings new command line up
+To update github
+1. git add . (enter)
+2. git commit -m "updating my txt file" (enter)
+3. git push (enter)
