@@ -13,3 +13,10 @@ To update github
 
 To pull from github
 git pull origin master (enter)
+
+To link to another repository
+ctrl shift P (opens command window at top of screen)
+Git: Clone
+Ctrl V (paste url of repository)
+Save to new folder
+
