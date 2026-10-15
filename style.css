@@ -1,0 +1,27 @@
+body {
+    background-color: #9939b1;
+}
+h1 {
+    color: #0a0a0ae8;
+    text-align: center;
+    font:300;
+    font-family:cursive;
+    outline: 2px solid #ece4ec;
+}
+h2 {
+    color: #e2dddde8;
+    text-align: center;
+}
+h3 {
+    color: #f0ba0b;
+    text-align: Right;
+}
+B{
+    color: #22eef5;
+    text-align: left;
+}
+img {
+    width: 400px;
+    height: 400px;
+    outline: 5px solid #ece4ec;
+}
