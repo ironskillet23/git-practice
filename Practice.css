@@ -10,6 +10,7 @@ h1 {
     text-align: center;
     font-family: cursive;
     font-size: 50px;
+    outline: 10px solid #ece4ec;
 }
 p {
     color: rgb(243, 247, 248);
@@ -27,4 +28,31 @@ img {
     width: 400px;
     height: 400px;
     outline: 10px solid #ece4ec;
+}
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 60%;
+    text-align: center;
+    margin: 0 auto;
+}
+.wrapper {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+}
+.side-image {
+    width: 400px;
+    height: 400px;
+    outline: 10px solid #ece4ec;
+}
+.side-table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 60%;
+    text-align: center;
+}
+.side-table th, .side-table td {
+    border: 1px solid black;
+    padding: 10px;
 }
