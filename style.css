@@ -11,6 +11,7 @@ h1 {
     font-family: cursive;
     font-size: 50px;
     outline: 10px solid #ece4ec;
+    border-radius: 30px;
 }
 p {
     color: rgb(243, 247, 248);
@@ -19,10 +20,11 @@ p {
     font-size: 30px;
 }
 button {
-    background-color: rgb(243, 247, 248);
+    background-color: rgb(19, 216, 29);
     color: rgb(189, 38, 235);
     font-family: cursive;
     font-size: 20px;
+    border-radius: 20px;
 }
 img {
     width: 400px;
@@ -51,8 +53,30 @@ table {
     border-collapse: collapse;
     width: 60%;
     text-align: center;
+    background-color: lightgray;
 }
 .side-table th, .side-table td {
     border: 1px solid black;
     padding: 10px;
 }
+#l1 {
+    color: fuchsia;
+    background-color: lightblue;
+}
+#l2 {
+    color: blue;
+    background-color: lightgreen;
+}
+#l3 {
+    color: green;
+    background-color: lightcoral;
+}
+#l4 {
+    color: purple;
+    background-color: lightyellow;
+}
+li {
+    font-size: 30px;
+    padding: 10px;
+    border-radius: 30px;
+    }
