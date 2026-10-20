@@ -1,0 +1,29 @@
+h1{
+    background-color: aqua;
+    color: white;
+}
+#heading{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+.para{
+    color: blue;
+    background-color: lightcoral;
+    text-align: left;
+    font-size: 30px;
+}
+#box1{
+    width: 200px;
+    padding: 20px;
+    background-color: lightblue;
+    margin: 30px;
+    border: 2px solid black;
+}
+#box2{
+    width: 200px;
+    padding: 20px;
+    background-color: lightgreen;
+    margin: 30px;
+    border: 2px dotted black;
+}
